@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GitHub;I'm+Azzoxil;Tech+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
 </h3>
 
+<p align="center">
+  <a href="https://github.com/azzoxil98">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 <!-- GIF Avatar -->
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Azzoxil98/Azzoxil98/main/gif/2.gif" width="200">
@@ -23,15 +29,15 @@
   </a>
 </p> -->
 
-
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=azzoxil98&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
+  </a> 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzoxil98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=azzoxil98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
+  <br><br> 
+    <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzoxil98&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
@@ -56,6 +62,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
+
 
 <!-- Footer -->
 <div align="center">
