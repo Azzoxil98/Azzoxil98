@@ -9,7 +9,7 @@
 </div>
 
 
-<!-- Media Sosial -->
+<!-- Media Sosial 
 <p align="center">
 
   <a href="https://twitter.com/revolution_fun" target="_blank">
@@ -21,7 +21,7 @@
   <a href="mailto:azzoxill@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</p>
+</p> -->
 
 
 <!-- GitHub Stats -->
