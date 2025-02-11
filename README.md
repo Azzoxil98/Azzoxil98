@@ -1,16 +1,15 @@
 <!-- Header Animasi -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GitHub!+%F0%9F%9A%80;I'm+Azzoxil;Full-Stack;Tech+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GitHub;I'm+Azzoxil;Tech+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+</h3>
 
 <!-- GIF Avatar -->
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/Azzoxil98/Azzoxil98/main/gif/2.gif" width="200">
 </div>
 
 
 <!-- Media Sosial -->
-<h3 align="center">🌍 Connect with me</h3>
 <p align="center">
 
   <a href="https://twitter.com/yourtwitter" target="_blank">
@@ -31,7 +30,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=azzoxil98&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
-  <br><br>
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azzoxil98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzoxil98&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
@@ -50,28 +49,40 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>
 </p>
 
-<!-- Quotes -->
-<h3 align="center">💡 Random Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
-
 <!-- Trophy -->
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azzoxil98&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophy"/>
 </p>
 
+<!-- Quotes -->
+<h3 align="center">💡 Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYztu/giphy.gif" width="200">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azzoxil98&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zMnViNnZ4cWpqc3l6bHB5cHoyMGdwdHFpNDE0cG91NHNmbnZ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" width="50"/>
+</div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=azzoxil98&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+  <img src="https://img.shields.io/github/stars/Azzoxil98?style=flat&label=Stars&color=yellow" alt="GitHub stars badge"/>
+</div>
 
 
 
