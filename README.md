@@ -49,14 +49,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>
 </p>
 
-<!-- Trophy -->
+<!-- Trophy 
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azzoxil98&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophy"/>
-</p>
+</p> -->
 
 <!-- Quotes -->
-<h3 align="center">💡 Random Dev Quote</h3>
+<h3 align="center">💡 Dev Quote</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
