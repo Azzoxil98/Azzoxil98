@@ -1,7 +1,8 @@
 <!-- Header Animasi -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+GitHub;I'm+Azzoxil;Tech+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=🏁+START+YOUR+ENGINES+🏁;I'm+Azzoxil,+Welcome+To+My+Github;Speeding+Through+Tech;Fueling+Innovation+🚀" alt="Typing SVG" />
 </h3>
+
 
 <p align="center">
   <a href="https://github.com/azzoxil98">
