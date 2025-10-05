@@ -19,10 +19,10 @@
 <!-- Media Sosial 
 <p align="center">
 
-  <a href="https://twitter.com/revolution_fun" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://t.me/azzoxil" target="_blank">
+    <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:azzoxill@gmail.com">
