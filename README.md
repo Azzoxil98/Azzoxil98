@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=azzoxil98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> --
 
 <!-- Tech Stack -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="60" height="40"/>
