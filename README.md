@@ -36,11 +36,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=azzoxil98&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a> 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzoxil98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
-  <br><br> 
-    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzoxil98&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=azzoxil98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> --
 
 <!-- Tech Stack -->
 <p align="center">
